@@ -8,5 +8,5 @@ Characteristics: #can-be-target
 * periodoSomministrazione 0..1 Period "Periodo della infusione/somministrazione" 
   * inizio 0..1 dateTime "Inizio della infusione/somministrazione del farmaco"
   * fine 0..1 dateTime "Fine della infusione/somministrazione del farmaco"
-* circostanzaAssunzione 0..1 string "Circocostanza di assunzione del farmaco (es: dopo i pasti, prima dei pasti, …)"
+* circostanzaAssunzione 0..1 string "Circostanza di assunzione del farmaco (es: dopo i pasti, prima dei pasti, …)"
 * posologia 0..1 string "Dosaggio e modalità di assunzione"
