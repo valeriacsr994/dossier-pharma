@@ -126,7 +126,7 @@ Description: "Rappresentazione della prescrizione del farmaco tramite il profilo
 * substitution.reason from VsMotivazioniNonSost (preferred) //TODO: should be added also the substitution reason?
 * substitution.reason ^short = "Motivo di non sostituibilità del farmaco"
 
-* reasonReference ^short = "Condizioni cliniche ed osservazioni che motivano la prescrizione (parametri vitali)" //TODO: only parametri vitali? 
+* reasonReference ^short = "Condizioni cliniche ed osservazioni che motivano la prescrizione (parametri vitali)"
 * dispenseRequest.validityPeriod ^short = "Periodo di tempo per il quale è autorizzata la fornitura"
 
 * dosageInstruction 1..1
